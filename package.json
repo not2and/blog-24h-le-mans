@@ -1,0 +1,16 @@
+{
+  "name": "blog-24h-le-mans",
+  "version": "1.0.0",
+  "description": "Um blog dedicado às 24 horas de Le Mans, com história, imagens e conteúdos relacionados.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build script not defined'"
+  },
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
