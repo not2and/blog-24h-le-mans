@@ -1,6 +1,6 @@
 # Blog 24 Horas de Le Mans
 
-Bem-vindo ao blog dedicado às 24 Horas de Le Mans, uma das corridas de resistência mais icônicas do mundo. Este projeto tem como objetivo compartilhar a história, curiosidades e imagens relacionadas a essa emocionante competição automobilística.
+Olá! Bem-vindo ao blog dedicado às 24 Horas de Le Mans, uma das corridas de resistência mais icônicas do mundo. Este projeto tem como objetivo compartilhar a história, curiosidades e imagens relacionadas a essa emocionante competição automobilística.
 
 ## Estrutura do Projeto
 
